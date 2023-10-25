@@ -18,7 +18,9 @@ Before using this code, you should have the following installed:
    ```sh
    git clone https://github.com/mayankpujara/Sentiment-Analysis-of-Tweets.git
 2. Navigate to the project directory:
+   ```sh
    cd Sentiment-Analysis-of-Tweets
-3. Dataset
+3. Dataset:
 The code uses a dataset from 'Tweets.csv' containing text data and sentiment labels (e.g., 'negative,' 'neutral,' 'positive'). The dataset may require additional preprocessing and cleaning, as demonstrated in the code.
+```sh
 Dataset Link: https://www.kaggle.com/datasets/crowdflower/twitter-airline-sentiment
